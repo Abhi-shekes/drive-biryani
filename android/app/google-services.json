@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423805419395",
+    "project_id": "drivebiryani-app",
+    "storage_bucket": "drivebiryani-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423805419395:android:507b7877a15606f33a40b6",
+        "android_client_info": {
+          "package_name": "com.drivebiryani.drivebiryani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMstAqhJ8Erb8WOhk7RTdty8rgW3Qn-KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
